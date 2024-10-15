@@ -1,6 +1,6 @@
-package SkillBuilders;
+package Mastery;
 
-public class RectangleP {
+public class scanner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
