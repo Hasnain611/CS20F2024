@@ -1,3 +1,13 @@
+/*
+
+Program:projectMastery.java      Date: 10,10,2024
+
+Purpose: calculate time spend designing,coding,debugging and testing project application
+
+School: CHHS
+Course: Computer Science 20  
+
+*/
 package Mastery;
 
 import java.text.NumberFormat;
@@ -40,4 +50,19 @@ System.out.println("Testing" + nf.format(testing_P));
 
 }
 }
+
+
+/*
+ How much time was spent designing project application? 15
+How much time was spent coding project application? 23
+How much time was spent debugging project application? 51
+How much time was spent testing project application? 63
+ Task % Time
+Debugging10%
+Coding15%
+Designing34%
+Testing41%
+
+ 
+ */
 

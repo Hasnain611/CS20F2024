@@ -1,3 +1,14 @@
+/*
+
+Program:ElectionMastery.java      Date: 10,10,2024
+
+Purpose: calculate the votes for the candidates and finalizing according to percentage who won
+
+School: CHHS
+Course: Computer Science 20  
+
+*/
+
 package Mastery;
 
 
@@ -75,3 +86,37 @@ System.out.println("TOTAL VOTES:   " + Total_V);
 }
 
 }
+
+//ScreenDump
+
+/*
+
+How many votes did John get in New York this election? 6
+How many votes did Eva get in New York this election? 8
+
+How many votes did John get in New Jersey this election? 9
+How many votes did John get in New Jersey this election? 0
+
+How many votes did John get in Connecticut this election? 4
+How many votes did John get in Connecticut this election? 
+3
+
+Election Results for New York: 
+John: 6
+Eva: 8
+
+Election Results for New Jersey: 
+John: 9
+Eva: 0
+
+Election Results for New York: 
+John: 4
+Eva: 3
+
+Candidate       Votes        Percentage 
+John:        19           63.33%
+Eva:      11           36.67%
+TOTAL VOTES:   30
+*/
+
+
