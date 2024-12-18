@@ -4,5 +4,5 @@
 /**
  * 
  */
-module chapter6 {
+module gettingstarted {
 }
